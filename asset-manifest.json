@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cakeshop/static/css/main.8f995ac5.chunk.css",
+    "main.js": "/cakeshop/static/js/main.87b2f853.chunk.js",
+    "main.js.map": "/cakeshop/static/js/main.87b2f853.chunk.js.map",
+    "runtime-main.js": "/cakeshop/static/js/runtime-main.31679167.js",
+    "runtime-main.js.map": "/cakeshop/static/js/runtime-main.31679167.js.map",
+    "static/js/2.f62b7c4b.chunk.js": "/cakeshop/static/js/2.f62b7c4b.chunk.js",
+    "static/js/2.f62b7c4b.chunk.js.map": "/cakeshop/static/js/2.f62b7c4b.chunk.js.map",
+    "static/js/3.8fb70d72.chunk.js": "/cakeshop/static/js/3.8fb70d72.chunk.js",
+    "static/js/3.8fb70d72.chunk.js.map": "/cakeshop/static/js/3.8fb70d72.chunk.js.map",
+    "index.html": "/cakeshop/index.html",
+    "static/css/main.8f995ac5.chunk.css.map": "/cakeshop/static/css/main.8f995ac5.chunk.css.map",
+    "static/js/2.f62b7c4b.chunk.js.LICENSE.txt": "/cakeshop/static/js/2.f62b7c4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31679167.js",
+    "static/js/2.f62b7c4b.chunk.js",
+    "static/css/main.8f995ac5.chunk.css",
+    "static/js/main.87b2f853.chunk.js"
+  ]
+}
